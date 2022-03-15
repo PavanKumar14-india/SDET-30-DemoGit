@@ -8,5 +8,6 @@ public class Demo2Test {
 	{
 		System.out.println("smoke---Commit");
 		System.out.println("smoke1---Commit");
+		System.out.println("smoke2---Commit");
 	}
 }
